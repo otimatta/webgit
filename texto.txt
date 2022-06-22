@@ -1,0 +1,3 @@
+estoy haciendo unas pruebas con git en la mac
+espero validar que el programa esta corriendo
+y me puedo conectar con github.
